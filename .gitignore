@@ -2,3 +2,4 @@ sample/\.gradle
 gradle/
 gradle-wrapper-scripts.zip
 gradle-wrapper-sourcecode.zip
+gradle-wrapper-scripts

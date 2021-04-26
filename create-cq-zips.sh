@@ -15,5 +15,5 @@ git clone --branch "v$TAG" --depth 1 https://github.com/gradle/gradle.git
 cd $BASEDIR/gradle/subprojects/wrapper/src/main/java/
 zip $BASEDIR/gradle-wrapper-sourcecode.zip -r .
 cd $BASEDIR/gradle/subprojects/wrapper/
-zip $BASEDIR/gradle-wrapper-sourcecode.zip wrapper.gradle.kts
+zip $BASEDIR/gradle-wrapper-sourcecode.zip build.gradle.kts
 cd $BASEDIR
